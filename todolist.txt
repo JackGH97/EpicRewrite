@@ -1,0 +1,3 @@
+Create UI for login
+Link with AWS Amplify functionality.\
+On Success auth move user to main activity.
