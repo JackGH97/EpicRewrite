@@ -13,6 +13,8 @@ import com.amplifyframework.core.Amplify;
 
 public class LoginActivity extends AppCompatActivity {
 
+    //https://www.youtube.com/watch?v=ayKMfVt2Sg4 working on this
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
